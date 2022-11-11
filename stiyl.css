@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar a{
+    color: white;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.aziz{
+    border-radius: 10px;
+}
